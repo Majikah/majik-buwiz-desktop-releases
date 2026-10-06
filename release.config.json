@@ -1,0 +1,43 @@
+{
+    "repository": "Majikah/majik-buwiz-desktop-releases",
+    "productName": "Majik Buwiz",
+    "sourceRepository": "Majikah/majik-buwiz-desktop",
+    "platforms": {
+        "windows": {
+            "enabled": true,
+            "requiredExtensions": [
+                ".exe",
+                ".msix",
+                ".msi"
+            ]
+        },
+        "linux": {
+            "enabled": false,
+            "requiredExtensions": [
+                ".deb",
+                ".AppImage",
+                ".rpm",
+                ".snap"
+            ]
+        },
+        "macos": {
+            "enabled": false,
+            "requiredExtensions": [
+                ".dmg"
+            ]
+        }
+    },
+    "sbom": {
+        "enabled": true,
+        "cwd": "../majik-buwiz-desktop",
+        "format": "spdx",
+        "type": "application",
+        "filename": "SBOM.spdx.json"
+    },
+    "signing": {
+        "enabled": true,
+        "keyPathEnv": "MAJIK_RELEASE_KEY_PATH",
+        "passphraseEnv": "MAJIK_RELEASE_KEY_PASSPHRASE",
+        "outputFilename": "MAJIK-SIGNATURE.mjksmap"
+    }
+}
