@@ -23,8 +23,8 @@
     "node": ">=22"
   },
   "devDependencies": {
-    "@majikah/majik-key": "^0.7.0",
-    "@majikah/majik-signature": "^0.8.0",
+    "@majikah/majik-key": "^1.0.2",
+    "@majikah/majik-signature": "^0.10.0",
     "@types/node": "^26.6.4",
     "dotenv": "^18.0.5",
     "jszip": "^3.10.2",
