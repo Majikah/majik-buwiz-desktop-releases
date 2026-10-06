@@ -1,0 +1,57 @@
+{
+  "version": "0.3.0",
+  "tag": "v0.3.0",
+  "product": "Majik Buwiz",
+  "repository": "Majikah/majik-buwiz-desktop-releases",
+  "generatedAt": "2026-10-06T14:51:36.111Z",
+  "changelog": "CHANGELOG.md",
+  "assets": [
+    {
+      "filename": "Majik Buwiz_0.3.0_x64_en-US.msi",
+      "size": 25202688,
+      "sha256": "566488833711718d2320f89ed2bde7e9664ee6a5f0d022ecd7e617408cd95c9d"
+    },
+    {
+      "filename": "Majik Buwiz_0.3.0_x64-setup.exe",
+      "size": 20088659,
+      "sha256": "657ef79c081a8915534c2ef7078c2f9df7f32c1fdfe021657c9fb7fabe594782"
+    },
+    {
+      "filename": "majik-buwiz_0.3.0_x64.msix",
+      "size": 16755787,
+      "sha256": "3154b35bdf38609922ac75494d7860d16975e1df3bc80e77aa2a3d625f1ceb90"
+    },
+    {
+      "filename": "majik-buwiz-desktop.exe",
+      "size": 33346048,
+      "sha256": "6c3f767cef18db74a42413dc2d5802fc546971b49f57cde38ffa52542173e0bb"
+    }
+  ],
+  "releaseMetadata": [
+    {
+      "filename": "RELEASE-MANIFEST.json",
+      "size": 1374,
+      "sha256": "015e170d82cac37c28a3964819bead159e71d1172e54cd2676fbaa24b1f13fc8"
+    },
+    {
+      "filename": "SHA256SUMS.txt",
+      "size": 708,
+      "sha256": "2fdc635585cebb75a249eafe58790dfefef8063f24c890e80d50118c3f446b71"
+    },
+    {
+      "filename": "SBOM.spdx.json",
+      "size": 1055795,
+      "sha256": "692941e78cff952b056ced3963514b380cfdfd2f7e77dc631944393ce8ac35e3"
+    },
+    {
+      "filename": "SBOM_REPORT.md",
+      "size": 30918,
+      "sha256": "515446ba7833c8489b4cceb344d3b0e8524389310845f93442acb0a1c127bb4f"
+    },
+    {
+      "filename": "MAJIK-SIGNATURE.mjksmap",
+      "size": 91570,
+      "sha256": "7229d17f838a9d6d4f68aba4b669777e237c2a64623eef57c65c382ab7dd83ab"
+    }
+  ]
+}
