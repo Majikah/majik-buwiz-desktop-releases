@@ -10,7 +10,7 @@ Majik Buwiz helps freelancers, consultants, and small business owners create, si
 
 [Read more about Majik Buwiz here](https://majikah.solutions/products/majik-buwiz)
 
-[![Majik Buwiz Thumbnail](https://github.com/user-attachments/assets/648ad529-2a25-4063-bc5f-cc9b5742e98b)](https://apps.microsoft.com/detail/9mzz1gm9238r)
+[![Majik Buwiz Thumbnail](https://github.com/user-attachments/assets/5332b419-34de-4bce-adea-db4b437769ab)](https://apps.microsoft.com/detail/9mzz1gm9238r)
 
 > Click the image to try Majik Buwiz live.
 
